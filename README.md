@@ -8,7 +8,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Sajim;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Sajim;Thank+You+Everyone+LoveyouAll)](https://git.io/typing-svg)
 
 </p>
 
@@ -20,7 +20,7 @@
 </i></b></h3>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/mrst520"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=mrst520&theme=monokai"></a>
+<a href="https://github.com/ST-Evils"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=mrst520&theme=monokai"></a>
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
@@ -57,7 +57,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [mrst520](https://github.com/mrst520)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [mrst520](https://github.com/ST-Evils)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -70,7 +70,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/sajimpk4)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/sajimpk4)
-[![Github](https://img.shields.io/badge/Github-SAJIM-green?style=for-the-badge&logo=github)](https://github.com/mrst520)
+[![Github](https://img.shields.io/badge/Github-SAJIM-green?style=for-the-badge&logo=github)](https://github.com/ST-Evils)
 
 ### ⚙️ &nbsp; Language & programming
 
@@ -92,12 +92,12 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/mrst520/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=mrst520&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Sajiml's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/mrst520/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrst520&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/ST-Evils/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ST-Evils&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Sajiml's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/ST-Evils/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST-Evils&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=mrst520&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Sajim's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ST-Evils&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Sajim's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
@@ -105,5 +105,5 @@
 
 ### Profile Visitors
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mrst520.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ST-Evils.visitor-badge&left_color=blue&right_color=yellow)
 <br />
