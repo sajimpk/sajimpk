@@ -8,7 +8,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Sajim;Thank+You+Everyone+Love+you+All)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Sajim;Thank+You)](https://git.io/typing-svg)
 
 </p>
 
@@ -57,7 +57,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [ST-Evils](https://github.com/ST-Evils)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [ST-Evils](https://github.com/Devils520)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -105,5 +105,5 @@
 
 ### Profile Visitors
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ST-Evils.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Devils520.visitor-badge&left_color=blue&right_color=yellow)
 <br />
