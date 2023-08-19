@@ -57,7 +57,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [SAJIM](https://github.com/Devils520)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [SAJIM](https://github.com/sajimpk)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -70,7 +70,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/sajimpk4)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/sajimpk4)
-[![Github](https://img.shields.io/badge/Github-SAJIM-green?style=for-the-badge&logo=github)](https://github.com/ST-Evils)
+[![Github](https://img.shields.io/badge/Github-SAJIM-green?style=for-the-badge&logo=github)](https://github.com/sajimpk)
 
 ### ⚙️ &nbsp; Language & programming
 
@@ -92,12 +92,12 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/Devils520/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Devils520&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Sajiml's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/Devils520/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devils520&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/sajimpk/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Devils520&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Sajiml's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/sajimpk/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajimpk&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Devils520&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Sajim's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=sajimpk&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Sajim's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
@@ -105,6 +105,6 @@
 
 ### Profile Visitors
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Devils520.visitor-badge&left_color=blue&right_color=yellow)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sajimpk.visitor-badge&left_color=blue&right_color=yellow)
 <br />
  
