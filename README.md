@@ -20,7 +20,7 @@
 </i></b></h3>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/ST-Evils"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Devils520&theme=monokai"></a>
+<a href="https://github.com/sajimpk"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=sajimpk&theme=monokai"></a>
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
