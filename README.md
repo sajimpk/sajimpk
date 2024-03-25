@@ -99,6 +99,6 @@
 
 ### Profile Visitors
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sajimpk.visitor-badge&left_color=blue&right_color=yellow)
+![](https://komarev.com/ghpvc/?username=your-github-sajimpk&label=PROFILE+VIEWS)
 <br />
  
