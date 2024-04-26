@@ -19,7 +19,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😏 𝐍𝐀𝐌𝐄:- SAJIM PK
+- 😏 𝐍𝐀𝐌𝐄:- SAJIM UDDIN
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
