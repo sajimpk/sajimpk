@@ -2,7 +2,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=WELCOME+TO+MY+PROFILE;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=SAJIM+UDDIN+-+QA+Engineer;)](https://git.io/typing-svg)  
 
 </p>
 
@@ -64,11 +64,11 @@ Feel free to reach out to me through the following platforms:
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😎 𝐀𝐆𝐄:- 22
+- 😎 𝐀𝐆𝐄:- 24
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- CSE (COMPUTER SINCE &ENGINEERING)
+- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:-  Computer Science & Engineering (CSE)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -119,6 +119,6 @@ Feel free to reach out to me through the following platforms:
 
 ### Profile Visitors
 
-![](https://komarev.com/ghpvc/?username=your-github-sajimpk&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=sajimpk&label=PROFILE+VIEWS)
 <br />
  
