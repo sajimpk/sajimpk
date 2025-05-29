@@ -1,124 +1,123 @@
+<h1 align="center">Hi 👋, I'm Sajim Uddin</h1>
 
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=SAJIM+UDDIN+-+QA+Engineer;)](https://git.io/typing-svg)  
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Test+Automation+Engineer;QA+Specialist;Python+%7C+Java+%7C+Cypress+%7C;" />
 </p>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+---
 
-<h3 align="center"><b><i>Skills & Expertise
-</i></b></h3>
+### ❓ Who am I?
+🧠 A **Test Automation Engineer** with a passion for quality assurance and clean code.  
+🛠️ I specialize in building test automation frameworks and robust QA pipelines using **Selenium**, **Cypress**, **Python**, and **Java**.  
+🎯 I love debugging, analyzing test coverage, and automating the boring stuff.
+
+---
+
+### 🏢 Work Experience
+
+**🔸 Test Automation Engineer – Quality Up Services**  
+📍 *Dhaka, Bangladesh | Mar 2024 – Nov 2024*  
+- 🧪 Developed automation scripts using **Selenium** and **Cypress**  
+- 🔧 Collaborated with developers using **Git**, **Azure Boards**, and **Jira**  
+- ✅ Executed sanity, regression, and release testing  
+- 📑 Logged and reported detailed bugs  
+- 📈 Boosted efficiency through modular testing approaches
+
+---
 
 
-### Backend Development
-- ![DJANGO](https://img.shields.io/badge/Django-777BB4?style=flat-square&logo=Django&logoColor=white)
-- ![PYTHON](https://img.shields.io/badge/python-777BB4?style=flat-square&logo=python&logoColor=white)
+## ❓ What technologies and tools do I use?
 
-### Frontend Development
-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
-- ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=BOOTSTRAP)
-- ![javascript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)
+### 🔧 Automation Tools
+- Selenium  
+- Cypress  
+- Postman  
+- Robot Framework
+
+### 🧱 Frameworks
+- Maven  
+- Cucumber  
+- Behave  
+- Django  
+- Katalon Studio
+
+### 💻 Programming Languages
+- Python  
+- Java  
+- JavaScript
+
+### 🧰 DevOps & Tools
+- Git, GitHub  
+- Azure Boards  
+- Jira  
+- Selenium Grid
+
+### 🛠️ Other Skills
+- Test Case Writing  
+- Parallel Test Execution  
+- Linux Command Line
 
 
-### WEB Automation
-- ![Selenium](https://img.shields.io/badge/Selenium-02569B?style=flat-square&logo=Selenium&logoColor=white)
-- ![Robot](https://img.shields.io/badge/Robot-02569B?style=flat-square&logo=Robot&logoColor=white)
-- ![Cypress](https://img.shields.io/badge/Cypress-02569B?style=flat-square&logo=Cypress&logoColor=white)
+
+---
+
+### 🌱 Currently Learning
+
+- Playwright for modern browser automation  
+- Docker & CI/CD pipelines  
+- Advanced Django REST Framework  
+- Contributing to open-source QA projects
+
+---
+
+## ❓ What’s my education background?
+**Answer:**  
+🎓 **Diploma in Engineering in Computer Technology**  
+**Cybertech Polytechnic Institute (2019–2023)**  
+Gained skills in programming, software development, networking, and hardware systems.
+
+---
+
+### 🚀 Projects
+
+- **📱 Google Task App Automation** – Selenium + Behave (Python)
+- **🛒 Daraz Web & App Automation** – Selenium (Java & Python)
+- **🐳 Simple Web Server** – Created with Docker
+- **🖥️ Windows App Automation** – Java + Maven + Cucumber
+- **🛍️ E-commerce Website** – Built with Django (Cart + Payment + Admin Panel)
+
+---
+
+### 📜 Certification
+🎖️ **Web Development with Python Django**  
+  Hands-on training on full-stack development during my internship using Django.
+
   
-### App Automation
-- ![appium](https://img.shields.io/badge/appium-02569B?style=flat-square&logo=appium&logoColor=white)
-- ![Robot](https://img.shields.io/badge/Robot-02569B?style=flat-square&logo=Robot&logoColor=white)
-- ![Selenium](https://img.shields.io/badge/Selenium-02569B?style=flat-square&logo=Selenium&logoColor=white)
-- ![android-studio](https://img.shields.io/badge/android-studio-02569B?style=flat-square&logo=android-studio&logoColor=white)
-  
-### Api Automation
-- ![postman](https://img.shields.io/badge/postman-777BB4?style=flat-square&logo=postman&logoColor=white)
-- ![Robot](https://img.shields.io/badge/Robot-02569B?style=flat-square&logo=Robot&logoColor=white)
-  
-### Databases
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-### Others
-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-- ![Git](https://img.shields.io/badge/-Java-05122A?style=flat&logo=HTML5)
+---
 
-<h3 align="center"><b><i>Get in Tech
-</i></b></h3>
+### 📬 Contact Me
+<table> <tr> <td><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="24"/></td> <td><b>Email:</b></td> <td><a href="mailto:sajim.qups@gmail.com">sajim.qups@gmail.com</a></td> </tr> <tr> <td><img src="https://img.icons8.com/fluency/48/000000/apple-phone.png" width="24"/></td> <td><b>Phone:</b></td> <td><a href="tel:+8801861766157">+880 1861766157</a></td> </tr> <tr> <td><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/></td> <td><b>GitHub:</b></td> <td><a href="https://github.com/sajimpk">github.com/sajimpk</a></td> </tr> <tr> <td><img src="https://img.icons8.com/fluency/48/facebook-new.png" width="24"/></td> <td><b>Facebook:</b></td> <td><a href="https://facebook.com/sajimpk4">facebook.com/sajimpk4</a></td> </tr> <tr> <td><img src="https://img.icons8.com/color/48/000000/facebook-messenger--v1.png" width="24"/></td> <td><b>Messenger:</b></td> <td><a href="https://m.me/sajimpk4">m.me/sajimpk4</a></td> </tr> </table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajimpk&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajimpk&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sajimpk&theme=radical&hide_border=true" alt="Streak Stats" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajimpk&label=PROFILE+VIEWS" alt="profile views" />
+</p>
+</p>
 
 
-Feel free to reach out to me through the following platforms:
+---
+### 📌 Pinned Repositories
 
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/sajimpk4)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/sajimpk4)
-[![JAva](https://img.shields.io/badge/Github-SAJIM-green?style=for-the-badge&logo=github)](https://github.com/sajimpk)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sajimpk&repo=Selenium-Grid-Two-Web&theme=radical)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sajimpk&repo=WindoesNotepadAutomation&theme=radical)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😏 𝐍𝐀𝐌𝐄:- SAJIM UDDIN
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 😎 𝐀𝐆𝐄:- 24
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:-  Computer Science & Engineering (CSE)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ❤ 𝐋𝐎𝐕𝐄𝐑:- 𝐀𝐌𝐌𝐎
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 👉 𝐈𝐍𝐒𝐋𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- 𝐌𝐘𝐒𝐄𝐋𝐅
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [SAJIM](https://www.facebook.com/sajimpk4)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [NOT NOW ONLINE](https://www.facebook.com/sajimpk4)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [SAJIM](https://github.com/sajimpk)
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- ⚡ Fun fact **I think I am funny**
-
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/sajimpk"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=sajimpk&theme=monokai"></a>
-
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
-
-<table border="1">
-  <tr>
-    <td valign="top"><a href="https://github.com/sajimpk/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=sajimpk&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Sajim's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/sajimpk/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajimpk&layout=compact&langs_count=10" alt ="Top Languages"/></td>
-    </a>
-  </tr>
-   <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=sajimpk&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Sajim's GitHub Readme Streak Stats"/> </a>  </td> 
-    
-  </tr>
-</table>
-<br>
-
-### Profile Visitors
-
-![](https://komarev.com/ghpvc/?username=sajimpk&label=PROFILE+VIEWS)
-<br />
- 
