@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Test+Automation+Engineer;QA+Specialist;Python+%7C+Java+%7C+Cypress+%7C;" />
 </p>
 
+  
+---
+
+### 📬 Contact Me
+<table> <tr> <td><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="24"/></td> <td><b>Email:</b></td> <td><a href="mailto:sajim.qups@gmail.com">sajimpk@gmail.com</a></td> </tr> <tr> <td><img src="https://img.icons8.com/fluency/48/000000/apple-phone.png" width="24"/></td> <td><b>Phone:</b></td> <td><a href="tel:+8801861766157">+880 1861766157</a></td> </tr> <tr> <td><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/></td> <td><b>GitHub:</b></td> <td><a href="https://github.com/sajimpk">Sajim Uddin</a></td> </tr> <tr> <td><img src="https://img.icons8.com/fluency/48/facebook-new.png" width="24"/></td> <td><b>Facebook:</b></td> <td><a href="https://facebook.com/sajimp4">SAJIM UDDIN</a></td> </tr> <tr> <td><img src="https://img.icons8.com/color/48/000000/facebook-messenger--v1.png" width="24"/></td> <td><b>Messenger:</b></td> <td><a href="https://m.me/sajimp4">SAJIM UDDIN</a></td> </tr> </table>
+
 ---
 
 ### ❓ Who am I?
@@ -92,11 +98,6 @@ Gained skills in programming, software development, networking, and hardware sys
 🎖️ **Web Development with Python Django**  
   Hands-on training on full-stack development during my internship using Django.
 
-  
----
-
-### 📬 Contact Me
-<table> <tr> <td><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="24"/></td> <td><b>Email:</b></td> <td><a href="mailto:sajim.qups@gmail.com">sajim.qups@gmail.com</a></td> </tr> <tr> <td><img src="https://img.icons8.com/fluency/48/000000/apple-phone.png" width="24"/></td> <td><b>Phone:</b></td> <td><a href="tel:+8801861766157">+880 1861766157</a></td> </tr> <tr> <td><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/></td> <td><b>GitHub:</b></td> <td><a href="https://github.com/sajimpk">github.com/sajimpk</a></td> </tr> <tr> <td><img src="https://img.icons8.com/fluency/48/facebook-new.png" width="24"/></td> <td><b>Facebook:</b></td> <td><a href="https://facebook.com/sajimpk4">facebook.com/sajimpk4</a></td> </tr> <tr> <td><img src="https://img.icons8.com/color/48/000000/facebook-messenger--v1.png" width="24"/></td> <td><b>Messenger:</b></td> <td><a href="https://m.me/sajimpk4">m.me/sajimpk4</a></td> </tr> </table>
 
 ---
 
