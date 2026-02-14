@@ -99,9 +99,14 @@ Git | GitHub | Docker | Azure Boards | Jira | Linux CLI
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajimpk&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajimpk&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajimpk&theme=tokyonight" />
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajimpk&theme=tokyonight" />
+  <br/>
+  
+</p>
 </p>
 
 ---
