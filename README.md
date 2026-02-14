@@ -1,124 +1,115 @@
-<h1 align="center">Hi 👋, I'm Sajim Uddin</h1>
+<!-- ========================= -->
+<!-- 🔥 Hidden SEO Keywords -->
+<!-- ========================= -->
+<!--
+Test Automation Engineer, SQA Engineer, QA Engineer Bangladesh,
+Selenium Automation Expert, Cypress Automation Engineer,
+Python Test Automation Developer, Java Automation Framework,
+BDD Cucumber Automation, CI/CD Testing Engineer,
+Software Quality Assurance Specialist,
+Automation Framework Developer Bangladesh,
+Agile QA Engineer, API Testing Postman,
+Selenium Grid Parallel Execution,
+Playwright Automation Engineer
+-->
+
+<!-- ========================= -->
+<!-- 🔥 Animated Dynamic Header -->
+<!-- ========================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Sajim+Uddin;SQA+Engineer;Test+Automation+Engineer;Selenium+%7C+Cypress+%7C+Python+%7C+Java;CI%2FCD+%7C+Automation+Framework+Developer" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Test+Automation+Engineer;QA+Specialist;Python+%7C+Java+%7C+Cypress+%7C;" />
+  <b>🚀 Building Scalable Automation Frameworks | Ensuring Software Quality | CI/CD Ready QA</b>
 </p>
 
-  
 ---
 
-### 📬 Contact Me
-<table> <tr> <td><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="24"/></td> <td><b>Email:</b></td> <td><a href="mailto:sajim.qups@gmail.com">sajimpk@gmail.com</a></td> </tr> <tr> <td><img src="https://img.icons8.com/fluency/48/000000/apple-phone.png" width="24"/></td> <td><b>Phone:</b></td> <td><a href="tel:+8801861766157">+880 1861766157</a></td> </tr> <tr> <td><img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="24"/></td> <td><b>GitHub:</b></td> <td><a href="https://github.com/sajimpk">Sajim Uddin</a></td> </tr> <tr> <td><img src="https://img.icons8.com/fluency/48/facebook-new.png" width="24"/></td> <td><b>Facebook:</b></td> <td><a href="https://facebook.com/sajim4">SAJIM UDDIN</a></td> </tr> <tr> <td><img src="https://img.icons8.com/color/48/000000/facebook-messenger--v1.png" width="24"/></td> <td><b>Messenger:</b></td> <td><a href="https://m.me/sajim4">SAJIM UDDIN</a></td> </tr> </table>
+## 👨‍💻 About Me
 
----
+💡 Passionate **SQA Engineer & Test Automation Engineer** with strong expertise in:
 
-### ❓ Who am I?
-🧠 A **Test Automation Engineer** with a passion for quality assurance and clean code.  
-🛠️ I specialize in building test automation frameworks and robust QA pipelines using **Selenium**, **Cypress**, **Python**, and **Java**.  
-🎯 I love debugging, analyzing test coverage, and automating the boring stuff.
+- Selenium WebDriver (Java & Python)
+- Cypress End-to-End Automation
+- BDD Frameworks (Cucumber, Behave)
+- API Testing (Postman)
+- Selenium Grid & Parallel Execution
+- CI/CD & Docker Integration
 
----
-
-### 🏢 Work Experience
-
-**🔸 Test Automation Engineer – Quality Up Services**  
-📍 *Dhaka, Bangladesh | Mar 2024 – Nov 2024*  
-- 🧪 Developed automation scripts using **Selenium** and **Cypress**  
-- 🔧 Collaborated with developers using **Git**, **Azure Boards**, and **Jira**  
-- ✅ Executed sanity, regression, and release testing  
-- 📑 Logged and reported detailed bugs  
-- 📈 Boosted efficiency through modular testing approaches
+🎯 Focus Areas:
+- Automation Framework Architecture
+- Regression & Release Strategy
+- Agile/Scrum QA Process
+- Clean & Maintainable Test Code
 
 ---
 
+## 🏢 Professional Experience
 
-## ❓ What technologies and tools do I use?
+### 🔹 SQA Engineer | Arif Academy  
+📍 Dhaka, Bangladesh | Nov 2025 – Present
 
-### 🔧 Automation Tools
-- Selenium  
-- Cypress  
-- Postman  
-- Robot Framework
+- Performed end-to-end Software Quality Assurance for web platforms
+- Designed detailed test plans, test scenarios & test cases
+- Conducted functional, regression, smoke & API testing
+- Managed bug lifecycle using Jira
+- Worked in Agile/Scrum development environment
+- Improved release stability by early defect detection
+
+---
+
+### 🔹 Test Automation Engineer | Quality Up Services  
+📍 Dhaka, Bangladesh | April 2024 – Oct 2025
+
+- Built scalable Selenium & Cypress automation frameworks
+- Integrated automation with Git & Azure Boards
+- Executed regression & release testing
+- Reduced manual effort through modular test design
+- Collaborated with developers via Agile workflows
+
+---
+
+## 🛠️ Technical Stack
+
+### 🔧 Automation
+Selenium | Cypress | Playwright | Robot Framework | Postman
+
+### 💻 Languages
+Python | Java | JavaScript
 
 ### 🧱 Frameworks
-- Maven  
-- Cucumber  
-- Behave  
-- Django  
-- Katalon Studio
+Maven | Cucumber | Behave | Django | Selenium Grid
 
-### 💻 Programming Languages
-- Python  
-- Java  
-- JavaScript
-
-### 🧰 DevOps & Tools
-- Git, GitHub  
-- Azure Boards  
-- Jira  
-- Selenium Grid
-
-### 🛠️ Other Skills
-- Test Case Writing  
-- Parallel Test Execution  
-- Linux Command Line
-
-
+### 🚀 DevOps
+Git | GitHub | Docker | Azure Boards | Jira | Linux CLI
 
 ---
 
-### 🌱 Currently Learning
+## 🚀 Featured Projects
 
-- Playwright for modern browser automation  
-- Docker & CI/CD pipelines  
-- Advanced Django REST Framework  
-- Contributing to open-source QA projects
-
----
-
-## ❓ What’s my education background?
-**Answer:**  
-🎓 **Diploma in Engineering in Computer Technology**  
-**Cybertech Polytechnic Institute (2019–2023)**  
-Gained skills in programming, software development, networking, and hardware systems.
+🔹 Selenium Grid Parallel Automation Framework  
+🔹 Windows Desktop Automation (Java + Cucumber)  
+🔹 Google Task Automation (Python BDD Framework)  
+🔹 Full-Stack E-commerce Platform (Django)
 
 ---
 
-### 🚀 Projects
-
-- **📱 Google Task App Automation** – Selenium + Behave (Python)
-- **🛒 Daraz Web & App Automation** – Selenium (Java & Python)
-- **🐳 Simple Web Server** – Created with Docker
-- **🖥️ Windows App Automation** – Java + Maven + Cucumber
-- **🛍️ E-commerce Website** – Built with Django (Cart + Payment + Admin Panel)
-
----
-
-### 📜 Certification
-🎖️ **Web Development with Python Django**  
-  Hands-on training on full-stack development during my internship using Django.
-
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajimpk&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajimpk&show_icons=true&theme=tokyonight&count_private=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajimpk&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sajimpk&theme=radical&hide_border=true" alt="Streak Stats" />
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajimpk&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajimpk&theme=tokyonight" />
 </p>
-</p>
-
 
 ---
-### 📌 Pinned Repositories
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sajimpk&repo=Selenium-Grid-Two-Web&theme=radical)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sajimpk&repo=WindoesNotepadAutomation&theme=radical)
+## 📫 Connect With Me
 
+📧 sajimpk@gmail.com  
+📱 +8801861766157  
+🌐 github.com/sajimpk  
 
+---
